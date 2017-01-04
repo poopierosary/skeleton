@@ -11,6 +11,9 @@ Angular 2 structure base set up to develop/build on the go with a define structu
 ## Start up
 1. Windows
     1. Be sure that you have git installed on your Windows device.
+        a. If you do not have git installed onto your Windows device then go [here](https://git-scm.com/downloads)
+        b. Download it, run it and ensure that it works.
+        c. If not, search around google and see if anyone else have encounter the same issue you have.
     2. Open up and run the git bash shell
     3. Go into where you download/clone the application's project folder.
     4. Run npm install and wait until it is finished.
