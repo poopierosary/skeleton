@@ -19,4 +19,5 @@ Angular 2 structure base set up to develop/build on the go with a define structu
     4. Run npm install and wait until it is finished.
     5. Commands to run to get it started is _npm run clean_, _npm run build_, and _npm start_.
         1. Alternatively, you can use _npm run clean_ _&&_ _npm run build_ && _npm start_.
+        2. Or you can use _npm run clean_ _&&_ npm run build_ to watch the rebuild of the build folder and _npm start_ to run it.
     6. The default browser will open up and point to **localhost:8000 .
