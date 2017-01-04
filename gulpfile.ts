@@ -50,6 +50,7 @@ gulp.task("resources", () => {
 **/
 gulp.task("libs", () => {
     return gulp.src([
+              'bootstrap/dist/css/bootstrap.min.css',
                'core-js/client/shim.min.js',
                'systemjs/dist/system-polyfills.js',
                'systemjs/dist/system.src.js',
