@@ -6,7 +6,7 @@ _nodejs_ and _npm_ is required to run skeleton.
 
 > To install _nodejs_ and _npm_ or to read more about it,
 >> head over to the website by [clicking here (nodejs)](https://nodejs.org).
->> and [here](https://www.npmjs.com/) is npms website.
+>> and [here](https://www.npmjs.com/) is npm's website.
 
 ## How to Start it up
 1. Windows
@@ -20,4 +20,10 @@ _nodejs_ and _npm_ is required to run skeleton.
     5. Commands to run to get it started is _npm run clean_, _npm run build_, and _npm start_.
         1. Alternatively, you can use _npm run clean_ _&&_ _npm run build_ && _npm start_.
         2. Or use _npm run clean_ _&&_ npm run build_ to watch the rebuild of the build folder and _npm start_ to run it.
-    6. The default browser will open up and point to **localhost:8000 .
+    6. The default browser will open up and point to _localhost:8000_ .
+
+2. Linux
+> Nothing here at the moment. Needs testing on Linux computers (desktop/laptop). Ubuntu for now.
+
+3. macOS
+> Nothing here at the moment. Needs testing on macOS computers (desktop/laptop).
