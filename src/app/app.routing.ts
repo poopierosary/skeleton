@@ -7,18 +7,18 @@ import { Routes, RouterModule } from '@angular/router';
 
 
 // Import compoents from within the app here
-import { HomeComponent } from './pages/home.component';
-import { AboutComponent } from './pages/about.component';
+import { HomePage } from './pages/home.page';
+import { AboutPage } from './pages/about.page';
 //**********************************************************************
 
 const appRoutes: Routes = [
     {
         path: '',
-        component: HomeComponent
+        component: HomePage
     },
     {
         path: 'about',
-        component: AboutComponent
+        component: AboutPage
     }
 ];
 

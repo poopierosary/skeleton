@@ -10,16 +10,16 @@ import { FormsModule }       from '@angular/forms';
 import { AppComponent }                                              from './app.component';
 import { NavbarComponent }                                         from './components/navbar.component';
 import { JumbotronComponent }                                    from './components/jumbotron.component';
-import { HomeComponent }                                           from './pages/home.component';
-import { AboutComponent }                                           from './pages/about.component';
+import { HomePage }                                                     from './pages/home.page';
+import { AboutPage }                                                     from './pages/about.page';
 import { routing }                                                           from './app.routing';
 //******************************************************************************************************************
 
 @NgModule({
     imports:            [ BrowserModule, routing ],
     declarations:    [ AppComponent, NavbarComponent,
-                              JumbotronComponent, HomeComponent,
-                              AboutComponent ],
+                              JumbotronComponent, HomePage,
+                              AboutPage ],
     bootstrap:        [ AppComponent ]
 })
 
