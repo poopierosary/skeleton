@@ -9,10 +9,10 @@ import { FormsModule }       from '@angular/forms';
 // Import components/views/pages within the app here
 import { AppComponent }                                              from './app.component';
 import { NavbarComponent }                                         from './components/navbar.component';
-import { JumbotronComponent }                                    from './components/jumbotron.component';
-import { HomePage }                                                     from './pages/home.page';
-import { AboutPage }                                                     from './pages/about.page';
-import { routing }                                                           from './app.routing';
+import { JumbotronComponent }                                   from './components/jumbotron.component';
+import { HomePage }                                                      from './pages/home.page';
+import { AboutPage }                                                      from './pages/about.page';
+import { routing }                                                             from './app.routing';
 //******************************************************************************************************************
 
 @NgModule({
