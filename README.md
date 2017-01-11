@@ -1,7 +1,11 @@
 # skeleton
 Angular 2 structure base set up to develop/build on the go with a defined structure.
+<<<<<<< HEAD
 Angular 2 boilerplate with using gulp to compile a build.
 >> You can clone this git repo and start developing or navigate through it to see how it is structed.
+=======
+> You can clone this git repo and start developing or navigate through it to see how it is structured.
+>>>>>>> ac42021dd8855ff5097c02b3882371beeabd640b
 
 ## Requirements
 _nodejs_ and _npm_ is required to run skeleton.
