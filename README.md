@@ -17,6 +17,11 @@ _nodejs_ and _npm_ is required to run skeleton.
         2. Download it, run it and ensure that it works.
         3. If not, search around google and see if anyone else have encounter the same issue you have.
     2. Open up and run the git bash shell
+        1. To clone the repo
+            1. In the git bash shell, type in or copy this:
+            >> git clone git@github.com:poopierosary/skeleton.git <- with SSH
+            >> git clone https://github.com/poopierosary/skeleton.git <- with HTTPS
+            2. Or you can download the repo as a zip and unzip it.
     3. Go into where you download/clone the application's project folder.
     4. Run npm install and wait until it is finished.
     5. Commands to run to get it started is _npm run clean_, _npm run build_, and _npm start_.
