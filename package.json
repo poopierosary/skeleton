@@ -1,7 +1,7 @@
 {
   "name": "skeleton",
   "version": "0.0.1",
-  "description": "Base structure ararchitecture to get started with angular 2 and build/develop on the go to build the frontend.",
+  "description": "Base structure architecture to get started with angular 2 and build/develop on the go to build the frontend.",
   "main": "",
   "scripts": {
     "clean": "gulp clean",
@@ -12,6 +12,7 @@
   },
   "author": "Kevin Saelee",
   "license": "MIT",
+  "homepage": "https://github.com/poopierosary/skeleton",
   "dependencies": {
     "@angular/common": "^2.4.1",
     "@angular/compiler": "^2.4.1",
